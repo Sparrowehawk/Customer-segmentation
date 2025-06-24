@@ -1,4 +1,4 @@
-# Customer-segmentation-
+# Customer segmentation
 3 ML algorithms to solve a [dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python): K-NN, neural network and Random Tree Forest
 
 Scores obtained (RMSE):
